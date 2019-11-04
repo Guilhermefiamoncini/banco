@@ -1,0 +1,11 @@
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.csprojAssemblyReference.cache
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.AssemblyInfoInputs.cache
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\datacenter\bin\Debug\netcoreapp2.2\datacenter.deps.json
+C:\Users\Usuario\source\repos\datacenter\bin\Debug\netcoreapp2.2\datacenter.runtimeconfig.json
+C:\Users\Usuario\source\repos\datacenter\bin\Debug\netcoreapp2.2\datacenter.runtimeconfig.dev.json
+c:\Users\Usuario\source\repos\datacenter\bin\Debug\netcoreapp2.2\datacenter.dll
+c:\Users\Usuario\source\repos\datacenter\bin\Debug\netcoreapp2.2\datacenter.pdb
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.dll
+c:\Users\Usuario\source\repos\datacenter\obj\Debug\netcoreapp2.2\datacenter.pdb
